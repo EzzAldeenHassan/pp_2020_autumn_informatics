@@ -1,1 +1,0 @@
-# Hassan_8_most_different_vector_elements

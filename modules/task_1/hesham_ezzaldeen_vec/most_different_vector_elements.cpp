@@ -4,7 +4,6 @@
 #include <cmath>
 #include <vector>
 #include <random>
-#include "../../../modules/task_1/HASSAN_n_most_different_vector_elements/most_different_vector_elements.h"
 #include "./mpi.h"
 
 std::vector<int> getRandVect(int n) {

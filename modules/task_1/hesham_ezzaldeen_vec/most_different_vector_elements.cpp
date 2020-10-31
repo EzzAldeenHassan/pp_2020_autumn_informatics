@@ -4,6 +4,7 @@
 #include <cmath>
 #include <vector>
 #include <random>
+#include<"../../..modules/task_1_HESHAM_EZZALDEEN_VEC.h">
 #include "./mpi.h"
 
 std::vector<int> getRandVect(int n) {

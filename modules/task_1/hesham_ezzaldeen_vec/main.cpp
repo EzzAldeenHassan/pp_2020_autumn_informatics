@@ -1,8 +1,9 @@
 // Copyright 2020 Hassan EzzAldeen Hesham Saeed
+#include <gtest-mpi-listener.hpp>
+#include <gtest/gtest.h>
 #include <vector>
-#include<mpi.h>
 #include <iostream>
-#include "most_different_vector_elements.h"
+#include "./most_different_vector_elements.h"
 
 TEST(most_different_vector_elements,can_find_the_right_answer) {
 	int rank;
